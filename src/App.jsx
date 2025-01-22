@@ -9,7 +9,7 @@ const Website = () => {
       <nav className="bg-white shadow-lg fixed w-full top-0 z-50">
         <div className="max-w-6xl mx-auto px-4">
           <div className="flex justify-between items-center h-16">
-            <span className="text-xl font-bold">Your Name</span>
+            <span className="text-xl font-bold">CyclopsRay's Nest</span>
             
             <div className="hidden md:flex space-x-8">
               <a href="#about" className="text-gray-600 hover:text-gray-900">About</a>
@@ -38,7 +38,7 @@ const Website = () => {
 
       {/* Friend Links Sidebar - Fixed position */}
       <div className="hidden lg:block fixed right-0 top-1/4 bg-white shadow-lg p-4 rounded-l-lg z-40">
-        <h3 className="font-bold mb-4">Friends</h3>
+        <h3 className="font-bold mb-4">Friend link</h3>
         <ul className="space-y-2">
           <li><a href="#" className="text-blue-600 hover:text-blue-800">Friend 1</a></li>
           <li><a href="#" className="text-blue-600 hover:text-blue-800">Friend 2</a></li>
@@ -62,9 +62,9 @@ const Website = () => {
           <div className="max-w-4xl mx-auto px-4">
             <h2 className="text-3xl font-bold mb-8">About Me</h2>
             <p className="text-gray-600 mb-6">
-              My name is Yuqi, you can also call me Ryan.
-              I'm a first year Ph.D. student in the Department of Computer Science at Vanderbilt University.
-              I'm passionate about developing computational methods to analyze biological data and uncover the underlying mechanisms of complex biological systems.
+              Hi! I'm Yuqi. 
+              I'm currently a first year Ph.D. student in the Department of Computer Science at Vanderbilt University.
+              I'm passionate about developing computational methods to analyze genomic data and uncover the underlying mechanisms of genomic coding.
               In my spare time, I enjoy playing guitar and piano, playing video games, and skiboarding.
             </p>
           </div>
