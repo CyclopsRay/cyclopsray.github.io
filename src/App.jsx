@@ -51,9 +51,9 @@ const Website = () => {
         {/* Hero Section */}
         <div className="bg-white">
           <div className="max-w-6xl mx-auto px-4 py-20 text-center">
-            <h1 className="text-4xl md:text-6xl font-bold mb-4">Your Name</h1>
-            <p className="text-xl text-gray-600 mb-8">Ph.D. Student at University Name</p>
-            <p className="text-gray-600">Research interests: Topic 1 • Topic 2 • Topic 3</p>
+            <h1 className="text-4xl md:text-6xl font-bold mb-4">Yuqi Lei</h1>
+            <p className="text-xl text-gray-600 mb-8">Ph.D. Student at Vanderbilt University</p>
+            <p className="text-gray-600">Research interests: Spatial Transcriptomic • Single-Cell Sequencing • Deep Learning</p>
           </div>
         </div>
 
@@ -62,7 +62,10 @@ const Website = () => {
           <div className="max-w-4xl mx-auto px-4">
             <h2 className="text-3xl font-bold mb-8">About Me</h2>
             <p className="text-gray-600 mb-6">
-              Brief introduction about your research focus and academic journey.
+              My name is Yuqi, you can also call me Ryan.
+              I'm a first year Ph.D. student in the Department of Computer Science at Vanderbilt University.
+              I'm passionate about developing computational methods to analyze biological data and uncover the underlying mechanisms of complex biological systems.
+              In my spare time, I enjoy playing guitar and piano, playing video games, and skiboarding.
             </p>
           </div>
         </section>
@@ -73,7 +76,7 @@ const Website = () => {
             <h2 className="text-3xl font-bold mb-8">Publications</h2>
             <div className="space-y-8">
               <div className="bg-gray-50 p-6 rounded-lg">
-                <h3 className="font-bold mb-2">Paper Title 1</h3>
+                <h3 className="font-bold mb-2">I'm working on it...</h3>
                 <p className="text-gray-600 mb-2">Authors</p>
                 <p className="text-gray-500 mb-4">Conference/Journal Name, Year</p>
                 <div className="flex space-x-4">
@@ -122,11 +125,11 @@ const Website = () => {
         <footer className="bg-gray-50 py-8">
           <div className="max-w-6xl mx-auto px-4 text-center text-gray-600">
             <div className="flex justify-center space-x-6 mb-4">
-              <a href="mailto:your.email@example.com">✉️ Email</a>
-              <a href="https://github.com/yourusername">💻 GitHub</a>
-              <a href="https://scholar.google.com">📚 Google Scholar</a>
+              <a href="mailto:yuqi.lei@vanderbilt.edu">✉️ Email</a>
+              <a href="https://github.com/cyclopsray">💻 GitHub</a>
+              <a href="https://scholar.google.com/citations?hl=en&user=l8gKmBIAAAAJ">📚 Google Scholar</a>
             </div>
-            <p>© 2025 Your Name. All rights reserved.</p>
+            <p>© 2025 Yuqi Lei. All rights reserved.</p>
           </div>
         </footer>
       </div>
